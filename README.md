@@ -54,7 +54,7 @@ background: https://codepen.io/nosurprisethere/pen/yoEmQE
 
 Udemy course: https://www.udemy.com/share/1013gGCUIedVxbQn0=/
 
-2. Challenges I encountered in creating this submission and how I overcame them? (recommended 200 - 400 words)
+2. Challenges I encountered in creating this submission and how I overcame them:
 
 Firstly, I want address that I barely have knowledge in terms of web development. Even though the instructions online were very clear, however, there was this one part where I faced the most trouble. Right after I copied and pasted the snippet of code for generating sound and followed the instruction, I couldn’t hear the sound. I have checked my code multiple times, but I didn’t find any issues regarding my code. I primarily use Safari. So, I looked up online and found an answer that said it is mostly due to the browser I was using. So, I tried using chrome and I still couldn’t resolve the problem. Then, I asked regarding this to my friends for 2 hour and I couldn’t come up with any solution. Later, I checked the console on Chrome and found out the problem. I found out that this is happening due to a new policy that few browsers are implementing. If our browsers (including Chrome) are updated, then most likely it won't work consistently. So, I tried adding extra few codes to do it the way the new policy was implemented which took me 3-5 hours trying to make it work and then it finally worked.
 
@@ -64,7 +64,7 @@ Also, I went out of my way to use this open source that led me to this beautiful
 
 All in all, this experience taught me a lot, not only in terms of web development, but also time management. I had 4 midterms and school projects due in the past few days. I had to manage and set some time apart to do this task. I found Web development so interesting that my passion for this led me to devote my extra time on learning and doing this.
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
+3. What questions about web development do I have after completing this project?
 
 To be honest, I don’t have many questions about web development, but I have it for myself. Before completing these tasks, the first thing that came to my mind was “Why web development?” And, now that question turned into, “what more can I do with it?” I figured that web development is such potential platform and it has endless and creative things to do that can change a lot in this world. Now, I want to know what is full stack programming,React js, Express js, Node, and MangoDb. This first project in web development made me even more hungry for getting in depth of software develpoment as well. I hope to learn more and keep answering these questions to myself by exploring this field more.
 
